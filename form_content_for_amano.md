@@ -81,12 +81,6 @@ AI OGAMIくんの利用URLと取扱説明書を
  ・GP課題用 OGAMIくん : https://chatgpt.com/g/g-699f945450348191b55e4334e9cf368a-gpke-ti-yong-ogamikun
  ・クライアント OGAMIくん : https://chatgpt.com/g/g-699ec01c772481919ff7da8998ed4376-kuraianto-ogamikun
 
-▼ ご利用方法（資料）
- [資料のリンク]
-
-▼ ご利用方法（動画）
- [動画のリンク]
-
 ご不明点はぬるま湯デザイン塾 運営事務局までお問い合わせください。
 ```
 
@@ -107,17 +101,11 @@ AI OGAMIくんの利用URLと取扱説明書を
 以下より AI OGAMIくん をご利用いただけます。
 
 ━━━━━━━━━━━━━━━━━━━━━━━
-▼ AI小上くん 利用URL
+▼ AI OGAMIくん 利用URL
 ━━━━━━━━━━━━━━━━━━━━━━━
  ・OGAMIくん（ぬるま湯塾生限定）: https://chatgpt.com/g/g-694c920fb16481919fefa3c6ae6489e5-ogamikun-nurumatang-shu-sheng-xian-ding
  ・GP課題用 OGAMIくん : https://chatgpt.com/g/g-699f945450348191b55e4334e9cf368a-gpke-ti-yong-ogamikun
  ・クライアント OGAMIくん : https://chatgpt.com/g/g-699ec01c772481919ff7da8998ed4376-kuraianto-ogamikun
-
-━━━━━━━━━━━━━━━━━━━━━━━
-▼ 取扱説明書
-━━━━━━━━━━━━━━━━━━━━━━━
-・ご利用方法（資料）
-・ご利用方法（動画）
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 ▼ ご利用にあたっての注意事項
